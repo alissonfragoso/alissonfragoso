@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @alissonfragoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alissonfragoso/alissonfragoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,bootstrap,jquery,wordpress,androidstudio,mysql,sqlite,java,py,azure,c,discord,linux,vscode&perline=10" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+ </a>
+</p>
