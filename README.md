@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alisson Fragoso  </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,devto,htmx,nodejs,javascript,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=,git,github,html,css,devto,htmx,nodejs,javascript,vscode&perline=10" />
    
     
   </a>
